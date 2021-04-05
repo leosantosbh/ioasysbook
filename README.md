@@ -29,22 +29,22 @@ Aplicativo para listagem de Livros.
 
 ### Splash Screen
 
-<img src="/assets/splashScreen.png" width="250">
+<img src="/assets/splashScreen.jpeg" width="250">
 
 
 ### Login
 
-<img src="/assets/login.png" width="250">
+<img src="/assets/login.jpeg" width="250">
 
 
 ### List Books
 
-<img src="/assets/bookList.png" width="250">
+<img src="/assets/bookList.jpeg" width="250">
 
 
 ### Book Details
 
-<img src="/assets/bookDetails.png" width="250">
+<img src="/assets/bookDetails.jpeg" width="250">
 
 ## Licence ##
 **MIT**
